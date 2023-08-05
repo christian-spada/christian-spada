@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am developer always looking to build new things
+I'm a developer always looking to build new things
