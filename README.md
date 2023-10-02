@@ -4,6 +4,8 @@
 
 I'm a developer always looking to build new things
 
+#### [LinkedIn](https://www.linkedin.com/in/christian-s-82a24a23b/)
+
 ---
 
 ### Technologies/Tools I Use
