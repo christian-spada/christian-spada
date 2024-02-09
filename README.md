@@ -4,8 +4,6 @@
 
 I'm a developer always looking to build new things
 
-Currently learning: Typescript
-
 Dedicated musician, find me playing guitar/piano/drums when I'm not coding :)
 
 
